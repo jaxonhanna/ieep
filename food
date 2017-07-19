@@ -1,0 +1,42 @@
+<style>
+  body {
+  padding-top: 80px;
+  text-align: center;
+
+  font-family: monaco, monospace;
+background-image: url('https://qph.ec.quoracdn.net/main-qimg-6081dd73242cdb5224ba0dba716ffd18');
+background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 40px;
+}
+span {
+  background:fd0;
+}
+body{
+  border-style: solid;
+  border-width:20px;
+  border-color: black;
+}
+</style>
+
+
+<h1>Practice Page on <span>scratchpad.io</span></h1><br>
+<h2>'Tis Lit</h2>
+<p> i like food</p>
+<li>Pizza</li>
+<li>chocolate</li> 
+<h1>yay</h1>
+<br><h2>something</h2>
+<h3>something</h3>
+<h4>something</h4>
+<h5>something</h5>
+<h6>something other than something</h6>
+<br><a href="https://almaaliyah.github.io/index.html/">heres a link to my website</a>
+<ol> 
